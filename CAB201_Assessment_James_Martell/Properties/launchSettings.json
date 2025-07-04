@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CAB201_Assessment_James_Martell": {
+      "commandName": "Project",
+      "workingDirectory": ".."
+    }
+  }
+}
